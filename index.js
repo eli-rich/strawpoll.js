@@ -1,2 +1,2 @@
-var strawpoll = require("./src/strawpoll.js");
+const strawpoll = require("./src/strawpoll.js");
 module.exports = strawpoll;
