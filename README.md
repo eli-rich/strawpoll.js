@@ -10,6 +10,8 @@ Usage:
 
 
 Both methods return a promise which resolves to a [poll object](https://github.com/strawpoll/strawpoll/wiki/API).
+
+
 Getting a poll's information
 ------
 `strawpoll.get(ID)` **returns promise..resolves to object**
