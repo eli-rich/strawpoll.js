@@ -1,2 +1,2 @@
 # strawpoll.js
-Strawpoll API for NodeJS
+Strawpoll library for NodeJS
