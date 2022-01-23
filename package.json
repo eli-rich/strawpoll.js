@@ -1,0 +1,23 @@
+{
+  "name": "strawpoll.js",
+  "version": "2.0.0",
+  "description": "A simple library to interact with strawpoll.com",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "keywords": [
+    "strawpoll",
+    "poll",
+    "http",
+    "get",
+    "strawpoll.com"
+  ],
+  "author": "Eli Richardson",
+  "license": "MIT",
+  "repository": "github:blazingfire007/strawpoll.js",
+  "dependencies": {
+    "axios": "^0.25.0"
+  }
+}
