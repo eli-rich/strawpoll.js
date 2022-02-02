@@ -1,8 +1,9 @@
 {
   "name": "strawpoll.js",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "A simple library to interact with strawpoll.com",
-  "main": "index.js",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\""
@@ -19,5 +20,8 @@
   "repository": "github:blazingfire007/strawpoll.js",
   "dependencies": {
     "axios": "^0.25.0"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.14"
   }
 }
